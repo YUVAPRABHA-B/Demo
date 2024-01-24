@@ -9,7 +9,7 @@ public class Solution{
         {
             if(n%i==0)
             {
-                a.add(i);
+                a.add(i); 
             }
         }
         return a;
