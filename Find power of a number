@@ -5,7 +5,7 @@ class Solution {
 	public static void main(String args[]) {
 		
 		// Write code here
-		int i,r=1;
+		int i,r=1; 
 		Scanner sc = new Scanner(System.in);
 		int b = sc.nextInt(); 
 		int p = sc.nextInt();
