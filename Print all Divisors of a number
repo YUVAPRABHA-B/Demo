@@ -4,7 +4,7 @@ public class Solution{
     public static List< Integer > printDivisors(int n) {
         // Write your code here
         List<Integer> a= new ArrayList<>();
-        int i;
+        int i; 
         for(i=1;i<=n;i++)
         {
             if(n%i==0) 
