@@ -12,6 +12,6 @@ public class Solution{
                 a.add(i); 
             }
         }
-        return a;
+        return a; 
     }
 }
