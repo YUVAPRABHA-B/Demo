@@ -11,7 +11,7 @@ public class Solution {
 		while (i <= n) {
 			sum += i;
 			i += 2;
-		}
+		} 
  
 		return sum;
 	} 
