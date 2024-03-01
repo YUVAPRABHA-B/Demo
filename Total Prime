@@ -6,7 +6,7 @@ using namespace std;
 //Write your totalPrime function here
 
 int main() {
-    int S, E;
+    int S, E; 
     cin >> S >> E;
     cout << totalPrime(S, E);
     return 0;
