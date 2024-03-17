@@ -13,7 +13,7 @@ class Solution {
 		{
 			double c = (s-32)/1.8; 
 			if(c>0)
-			f = Math.floor(c); 
+			f = Math.floor(c);  
 			else
 			f = Math.ceil(c);
 			int r = (int)f;
