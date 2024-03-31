@@ -8,7 +8,7 @@ public class Solution {
         // Starting number.
 		int i = 2;
  
-		while (i <= n) {
+		while (i <= n) { 
 			sum += i;
 			i += 2;
 		} 
