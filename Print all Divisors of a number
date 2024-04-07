@@ -10,7 +10,7 @@ public class Solution{
             if(n%i==0)  
             {
                 a.add(i); 
-            }
+            } 
         }
         return a;   
     }
