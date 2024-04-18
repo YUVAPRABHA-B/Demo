@@ -12,7 +12,7 @@ public class Solution {
 			sum += i;
 			i += 2;
 		} 
- 
+
 		return sum;
 	} 
 } 
