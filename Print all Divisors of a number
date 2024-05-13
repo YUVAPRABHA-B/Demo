@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 public class Solution{
     public static List< Integer > printDivisors(int n) {
-        // Write your code h
+        // Write your code 
         List<Integer> a= new ArrayList<>();
         int i; 
         for(i=1;i<=n;i++)
