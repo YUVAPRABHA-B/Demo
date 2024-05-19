@@ -14,5 +14,5 @@ class Solution {
 			r*=b; 
 		}
 		System.out.println(r);
-	}
+	} 
 }
